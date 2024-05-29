@@ -1,0 +1,581 @@
+D:\DHSP\Year2\HK1\LapTrinhWindow\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\QuanLiNhaSach.exe.config
+D:\DHSP\Year2\HK1\LapTrinhWindow\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\QuanLiNhaSach.exe
+D:\DHSP\Year2\HK1\LapTrinhWindow\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\QuanLiNhaSach.pdb
+D:\DHSP\Year2\HK1\LapTrinhWindow\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.csproj.AssemblyReference.cache
+D:\DHSP\Year2\HK1\LapTrinhWindow\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.csproj.SuggestedBindingRedirects.cache
+D:\DHSP\Year2\HK1\LapTrinhWindow\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.Properties.Resources.resources
+D:\DHSP\Year2\HK1\LapTrinhWindow\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.csproj.GenerateResource.cache
+D:\DHSP\Year2\HK1\LapTrinhWindow\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.csproj.CoreCompileInputs.cache
+D:\DHSP\Year2\HK1\LapTrinhWindow\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.exe
+D:\DHSP\Year2\HK1\LapTrinhWindow\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.pdb
+D:\DHSP\Year2\HK1\LapTrinhWindow\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmHomePageUser.resources
+D:\DHSP\Year2\HK1\LapTrinhWindow\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmLoginUser.resources
+D:\DHSP\Year2\HK1\LapTrinhWindow\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmBookInfo.resources
+D:\DHSP\Year2\HK1\LapTrinhWindow\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmCart.resources
+D:\DHSP\Year2\HK1\LapTrinhWindow\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmReceipt.resources
+D:\DHSP\Year2\HK1\LapTrinhWindow\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmUserAccount.resources
+C:\Users\Phung\Source\Repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\QuanLiNhaSach.exe.config
+C:\Users\Phung\Source\Repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\QuanLiNhaSach.exe
+C:\Users\Phung\Source\Repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\QuanLiNhaSach.pdb
+C:\Users\Phung\Source\Repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.csproj.AssemblyReference.cache
+C:\Users\Phung\Source\Repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.csproj.SuggestedBindingRedirects.cache
+C:\Users\Phung\Source\Repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmBookInfo.resources
+C:\Users\Phung\Source\Repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmCart.resources
+C:\Users\Phung\Source\Repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmHomePageUser.resources
+C:\Users\Phung\Source\Repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmLoginAdmin.resources
+C:\Users\Phung\Source\Repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmLoginUser.resources
+C:\Users\Phung\Source\Repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmOrderManagement.resources
+C:\Users\Phung\Source\Repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmReceipt.resources
+C:\Users\Phung\Source\Repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmUserAccount.resources
+C:\Users\Phung\Source\Repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.Properties.Resources.resources
+C:\Users\Phung\Source\Repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.csproj.GenerateResource.cache
+C:\Users\Phung\Source\Repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.csproj.CoreCompileInputs.cache
+C:\Users\Phung\Source\Repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.exe
+C:\Users\Phung\Source\Repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.pdb
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.FrmBookManagement.resources
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmHomePageAdmin.resources
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmCustomerAccount.resources
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\EPPlus.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\EPPlus.xml
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.csproj.CopyComplete
+D:\DHSP\Year2\HK1\LapTrinhWindow\cuoiki\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\QuanLiNhaSach.exe.config
+D:\DHSP\Year2\HK1\LapTrinhWindow\cuoiki\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\QuanLiNhaSach.exe
+D:\DHSP\Year2\HK1\LapTrinhWindow\cuoiki\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\QuanLiNhaSach.pdb
+D:\DHSP\Year2\HK1\LapTrinhWindow\cuoiki\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\EPPlus.dll
+D:\DHSP\Year2\HK1\LapTrinhWindow\cuoiki\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\EPPlus.Interfaces.dll
+D:\DHSP\Year2\HK1\LapTrinhWindow\cuoiki\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\EPPlus.System.Drawing.dll
+D:\DHSP\Year2\HK1\LapTrinhWindow\cuoiki\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\DHSP\Year2\HK1\LapTrinhWindow\cuoiki\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\EPPlus.xml
+D:\DHSP\Year2\HK1\LapTrinhWindow\cuoiki\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\DHSP\Year2\HK1\LapTrinhWindow\cuoiki\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.csproj.AssemblyReference.cache
+D:\DHSP\Year2\HK1\LapTrinhWindow\cuoiki\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.csproj.SuggestedBindingRedirects.cache
+D:\DHSP\Year2\HK1\LapTrinhWindow\cuoiki\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmAdminAccount.resources
+D:\DHSP\Year2\HK1\LapTrinhWindow\cuoiki\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmBookInfo.resources
+D:\DHSP\Year2\HK1\LapTrinhWindow\cuoiki\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.FrmBookManagement.resources
+D:\DHSP\Year2\HK1\LapTrinhWindow\cuoiki\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmCart.resources
+D:\DHSP\Year2\HK1\LapTrinhWindow\cuoiki\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmCustomerAccount.resources
+D:\DHSP\Year2\HK1\LapTrinhWindow\cuoiki\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmDetailedInvoice.resources
+D:\DHSP\Year2\HK1\LapTrinhWindow\cuoiki\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmHomePageAdmin.resources
+D:\DHSP\Year2\HK1\LapTrinhWindow\cuoiki\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmHomePageUser.resources
+D:\DHSP\Year2\HK1\LapTrinhWindow\cuoiki\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmLoginAdmin.resources
+D:\DHSP\Year2\HK1\LapTrinhWindow\cuoiki\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmLoginUser.resources
+D:\DHSP\Year2\HK1\LapTrinhWindow\cuoiki\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmOrderManagement.resources
+D:\DHSP\Year2\HK1\LapTrinhWindow\cuoiki\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmReceipt.resources
+D:\DHSP\Year2\HK1\LapTrinhWindow\cuoiki\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmUserAccount.resources
+D:\DHSP\Year2\HK1\LapTrinhWindow\cuoiki\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.Properties.Resources.resources
+D:\DHSP\Year2\HK1\LapTrinhWindow\cuoiki\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.csproj.GenerateResource.cache
+D:\DHSP\Year2\HK1\LapTrinhWindow\cuoiki\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.csproj.CoreCompileInputs.cache
+D:\DHSP\Year2\HK1\LapTrinhWindow\cuoiki\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.csproj.CopyComplete
+D:\DHSP\Year2\HK1\LapTrinhWindow\cuoiki\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.exe
+D:\DHSP\Year2\HK1\LapTrinhWindow\cuoiki\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.pdb
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\QuanLiNhaSach.exe.config
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\QuanLiNhaSach.exe
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\QuanLiNhaSach.pdb
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\EPPlus.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\EPPlus.xml
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.csproj.AssemblyReference.cache
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.csproj.SuggestedBindingRedirects.cache
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmBookInfo.resources
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.FrmBookManagement.resources
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmCart.resources
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmCustomerAccount.resources
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmDetailedInvoice.resources
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmHomePageAdmin.resources
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmHomePageUser.resources
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmLoginAdmin.resources
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmLoginUser.resources
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmOrderManagement.resources
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmReceipt.resources
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmUserAccount.resources
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.Properties.Resources.resources
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.csproj.GenerateResource.cache
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.csproj.CoreCompileInputs.cache
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.csproj.CopyComplete
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.exe
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.pdb
+C:\Users\Phung\Downloads\LapTrinhWindows\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\QuanLiNhaSach.exe.config
+C:\Users\Phung\Downloads\LapTrinhWindows\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\QuanLiNhaSach.exe
+C:\Users\Phung\Downloads\LapTrinhWindows\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\QuanLiNhaSach.pdb
+C:\Users\Phung\Downloads\LapTrinhWindows\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\EPPlus.dll
+C:\Users\Phung\Downloads\LapTrinhWindows\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Phung\Downloads\LapTrinhWindows\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Phung\Downloads\LapTrinhWindows\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Phung\Downloads\LapTrinhWindows\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\EPPlus.xml
+C:\Users\Phung\Downloads\LapTrinhWindows\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Phung\Downloads\LapTrinhWindows\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.csproj.AssemblyReference.cache
+C:\Users\Phung\Downloads\LapTrinhWindows\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.csproj.SuggestedBindingRedirects.cache
+C:\Users\Phung\Downloads\LapTrinhWindows\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmBookInfo.resources
+C:\Users\Phung\Downloads\LapTrinhWindows\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.FrmBookManagement.resources
+C:\Users\Phung\Downloads\LapTrinhWindows\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmCart.resources
+C:\Users\Phung\Downloads\LapTrinhWindows\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmCustomerAccount.resources
+C:\Users\Phung\Downloads\LapTrinhWindows\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmDetailedInvoice.resources
+C:\Users\Phung\Downloads\LapTrinhWindows\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmHomePageAdmin.resources
+C:\Users\Phung\Downloads\LapTrinhWindows\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmHomePageUser.resources
+C:\Users\Phung\Downloads\LapTrinhWindows\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmLoginAdmin.resources
+C:\Users\Phung\Downloads\LapTrinhWindows\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmLoginUser.resources
+C:\Users\Phung\Downloads\LapTrinhWindows\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmOrderManagement.resources
+C:\Users\Phung\Downloads\LapTrinhWindows\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmReceipt.resources
+C:\Users\Phung\Downloads\LapTrinhWindows\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmUserAccount.resources
+C:\Users\Phung\Downloads\LapTrinhWindows\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.Properties.Resources.resources
+C:\Users\Phung\Downloads\LapTrinhWindows\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.csproj.GenerateResource.cache
+C:\Users\Phung\Downloads\LapTrinhWindows\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.csproj.CoreCompileInputs.cache
+C:\Users\Phung\Downloads\LapTrinhWindows\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.csproj.CopyComplete
+C:\Users\Phung\Downloads\LapTrinhWindows\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.exe
+C:\Users\Phung\Downloads\LapTrinhWindows\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.pdb
+C:\Users\MSI VN\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\QuanLiNhaSach.exe.config
+C:\Users\MSI VN\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\QuanLiNhaSach.exe
+C:\Users\MSI VN\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\QuanLiNhaSach.pdb
+C:\Users\MSI VN\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\EPPlus.dll
+C:\Users\MSI VN\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\MSI VN\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\MSI VN\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\MSI VN\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\EPPlus.xml
+C:\Users\MSI VN\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\MSI VN\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.csproj.AssemblyReference.cache
+C:\Users\MSI VN\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI VN\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmLoginAdmin.resources
+C:\Users\MSI VN\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmBookInfo.resources
+C:\Users\MSI VN\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.FrmBookManagement.resources
+C:\Users\MSI VN\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmCart.resources
+C:\Users\MSI VN\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmCustomerAccount.resources
+C:\Users\MSI VN\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmDetailedInvoice.resources
+C:\Users\MSI VN\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmHomePageAdmin.resources
+C:\Users\MSI VN\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmHomePageUser.resources
+C:\Users\MSI VN\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmLoginUser.resources
+C:\Users\MSI VN\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmOrderManagement.resources
+C:\Users\MSI VN\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmReceipt.resources
+C:\Users\MSI VN\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmUserAccount.resources
+C:\Users\MSI VN\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.Properties.Resources.resources
+C:\Users\MSI VN\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.csproj.GenerateResource.cache
+C:\Users\MSI VN\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.csproj.CoreCompileInputs.cache
+C:\Users\MSI VN\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.csproj.CopyComplete
+C:\Users\MSI VN\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.exe
+C:\Users\MSI VN\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.pdb
+D:\DoAnCuoiKy\DoAnCuoiKy\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\QuanLiNhaSach.exe.config
+D:\DoAnCuoiKy\DoAnCuoiKy\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\QuanLiNhaSach.exe
+D:\DoAnCuoiKy\DoAnCuoiKy\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\QuanLiNhaSach.pdb
+D:\DoAnCuoiKy\DoAnCuoiKy\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\EPPlus.dll
+D:\DoAnCuoiKy\DoAnCuoiKy\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\EPPlus.Interfaces.dll
+D:\DoAnCuoiKy\DoAnCuoiKy\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\EPPlus.System.Drawing.dll
+D:\DoAnCuoiKy\DoAnCuoiKy\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\DoAnCuoiKy\DoAnCuoiKy\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\EPPlus.xml
+D:\DoAnCuoiKy\DoAnCuoiKy\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\DoAnCuoiKy\DoAnCuoiKy\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.csproj.AssemblyReference.cache
+D:\DoAnCuoiKy\DoAnCuoiKy\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.csproj.SuggestedBindingRedirects.cache
+D:\DoAnCuoiKy\DoAnCuoiKy\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmLoginAdmin.resources
+D:\DoAnCuoiKy\DoAnCuoiKy\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmBookInfo.resources
+D:\DoAnCuoiKy\DoAnCuoiKy\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.FrmBookManagement.resources
+D:\DoAnCuoiKy\DoAnCuoiKy\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmCart.resources
+D:\DoAnCuoiKy\DoAnCuoiKy\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmCustomerAccount.resources
+D:\DoAnCuoiKy\DoAnCuoiKy\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmDetailedInvoice.resources
+D:\DoAnCuoiKy\DoAnCuoiKy\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmHomePageAdmin.resources
+D:\DoAnCuoiKy\DoAnCuoiKy\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmHomePageUser.resources
+D:\DoAnCuoiKy\DoAnCuoiKy\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmLoginUser.resources
+D:\DoAnCuoiKy\DoAnCuoiKy\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmOrderManagement.resources
+D:\DoAnCuoiKy\DoAnCuoiKy\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmReceipt.resources
+D:\DoAnCuoiKy\DoAnCuoiKy\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmUserAccount.resources
+D:\DoAnCuoiKy\DoAnCuoiKy\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.Properties.Resources.resources
+D:\DoAnCuoiKy\DoAnCuoiKy\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.csproj.GenerateResource.cache
+D:\DoAnCuoiKy\DoAnCuoiKy\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.csproj.CoreCompileInputs.cache
+D:\DoAnCuoiKy\DoAnCuoiKy\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.csproj.CopyComplete
+D:\DoAnCuoiKy\DoAnCuoiKy\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.exe
+D:\DoAnCuoiKy\DoAnCuoiKy\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.pdb
+D:\DoAnCuoiKy\DoAnCuoiKy\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.FrmSplash.resources
+D:\DoAnCuoiKy\DoAnCuoiKy\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.Admin.frmEmployeeManagement.resources
+D:\DoAnCuoiKy\DoAnCuoiKy\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\EPPlus.Core.dll
+D:\DoAnCuoiKy\DoAnCuoiKy\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ExcelDataReader.DataSet.dll
+D:\DoAnCuoiKy\DoAnCuoiKy\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ExcelDataReader.dll
+D:\DoAnCuoiKy\DoAnCuoiKy\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\Z.Dapper.Plus.dll
+D:\DoAnCuoiKy\DoAnCuoiKy\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\EPPlus.Core.xml
+D:\DoAnCuoiKy\DoAnCuoiKy\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ExcelDataReader.pdb
+D:\DoAnCuoiKy\DoAnCuoiKy\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ExcelDataReader.xml
+D:\DoAnCuoiKy\DoAnCuoiKy\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\DoAnCuoiKy\DoAnCuoiKy\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ExcelDataReader.DataSet.xml
+D:\DoAnCuoiKy\DoAnCuoiKy\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\Z.Dapper.Plus.xml
+D:\DHSP\Year2\HK1\LapTrinhWindow\QuanLiNhaSach\Source\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\QuanLiNhaSach.exe.config
+D:\DHSP\Year2\HK1\LapTrinhWindow\QuanLiNhaSach\Source\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\QuanLiNhaSach.exe
+D:\DHSP\Year2\HK1\LapTrinhWindow\QuanLiNhaSach\Source\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\QuanLiNhaSach.pdb
+D:\DHSP\Year2\HK1\LapTrinhWindow\QuanLiNhaSach\Source\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\EPPlus.Core.dll
+D:\DHSP\Year2\HK1\LapTrinhWindow\QuanLiNhaSach\Source\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\EPPlus.dll
+D:\DHSP\Year2\HK1\LapTrinhWindow\QuanLiNhaSach\Source\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\EPPlus.Interfaces.dll
+D:\DHSP\Year2\HK1\LapTrinhWindow\QuanLiNhaSach\Source\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\EPPlus.System.Drawing.dll
+D:\DHSP\Year2\HK1\LapTrinhWindow\QuanLiNhaSach\Source\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ExcelDataReader.DataSet.dll
+D:\DHSP\Year2\HK1\LapTrinhWindow\QuanLiNhaSach\Source\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ExcelDataReader.dll
+D:\DHSP\Year2\HK1\LapTrinhWindow\QuanLiNhaSach\Source\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\DHSP\Year2\HK1\LapTrinhWindow\QuanLiNhaSach\Source\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\Z.Dapper.Plus.dll
+D:\DHSP\Year2\HK1\LapTrinhWindow\QuanLiNhaSach\Source\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\EPPlus.xml
+D:\DHSP\Year2\HK1\LapTrinhWindow\QuanLiNhaSach\Source\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\EPPlus.Core.xml
+D:\DHSP\Year2\HK1\LapTrinhWindow\QuanLiNhaSach\Source\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ExcelDataReader.pdb
+D:\DHSP\Year2\HK1\LapTrinhWindow\QuanLiNhaSach\Source\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ExcelDataReader.xml
+D:\DHSP\Year2\HK1\LapTrinhWindow\QuanLiNhaSach\Source\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\DHSP\Year2\HK1\LapTrinhWindow\QuanLiNhaSach\Source\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ExcelDataReader.DataSet.xml
+D:\DHSP\Year2\HK1\LapTrinhWindow\QuanLiNhaSach\Source\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\DHSP\Year2\HK1\LapTrinhWindow\QuanLiNhaSach\Source\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\Z.Dapper.Plus.xml
+D:\DHSP\Year2\HK1\LapTrinhWindow\QuanLiNhaSach\Source\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.csproj.AssemblyReference.cache
+D:\DHSP\Year2\HK1\LapTrinhWindow\QuanLiNhaSach\Source\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.csproj.SuggestedBindingRedirects.cache
+D:\DHSP\Year2\HK1\LapTrinhWindow\QuanLiNhaSach\Source\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.Admin.frmEmployeeManagement.resources
+D:\DHSP\Year2\HK1\LapTrinhWindow\QuanLiNhaSach\Source\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmLoginAdmin.resources
+D:\DHSP\Year2\HK1\LapTrinhWindow\QuanLiNhaSach\Source\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.FrmSplash.resources
+D:\DHSP\Year2\HK1\LapTrinhWindow\QuanLiNhaSach\Source\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmBookInfo.resources
+D:\DHSP\Year2\HK1\LapTrinhWindow\QuanLiNhaSach\Source\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.FrmBookManagement.resources
+D:\DHSP\Year2\HK1\LapTrinhWindow\QuanLiNhaSach\Source\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmCart.resources
+D:\DHSP\Year2\HK1\LapTrinhWindow\QuanLiNhaSach\Source\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmCustomerAccount.resources
+D:\DHSP\Year2\HK1\LapTrinhWindow\QuanLiNhaSach\Source\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmDetailedInvoice.resources
+D:\DHSP\Year2\HK1\LapTrinhWindow\QuanLiNhaSach\Source\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmHomePageAdmin.resources
+D:\DHSP\Year2\HK1\LapTrinhWindow\QuanLiNhaSach\Source\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmHomePageUser.resources
+D:\DHSP\Year2\HK1\LapTrinhWindow\QuanLiNhaSach\Source\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmLoginUser.resources
+D:\DHSP\Year2\HK1\LapTrinhWindow\QuanLiNhaSach\Source\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmOrderManagement.resources
+D:\DHSP\Year2\HK1\LapTrinhWindow\QuanLiNhaSach\Source\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmReceipt.resources
+D:\DHSP\Year2\HK1\LapTrinhWindow\QuanLiNhaSach\Source\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmUserAccount.resources
+D:\DHSP\Year2\HK1\LapTrinhWindow\QuanLiNhaSach\Source\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.Properties.Resources.resources
+D:\DHSP\Year2\HK1\LapTrinhWindow\QuanLiNhaSach\Source\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.csproj.GenerateResource.cache
+D:\DHSP\Year2\HK1\LapTrinhWindow\QuanLiNhaSach\Source\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.csproj.CoreCompileInputs.cache
+D:\DHSP\Year2\HK1\LapTrinhWindow\QuanLiNhaSach\Source\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.csproj.CopyComplete
+D:\DHSP\Year2\HK1\LapTrinhWindow\QuanLiNhaSach\Source\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.exe
+D:\DHSP\Year2\HK1\LapTrinhWindow\QuanLiNhaSach\Source\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.pdb
+D:\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\QuanLiNhaSach.exe.config
+D:\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\QuanLiNhaSach.exe
+D:\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\QuanLiNhaSach.pdb
+D:\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\EPPlus.Core.dll
+D:\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\EPPlus.dll
+D:\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\EPPlus.Interfaces.dll
+D:\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\EPPlus.System.Drawing.dll
+D:\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ExcelDataReader.DataSet.dll
+D:\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ExcelDataReader.dll
+D:\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\Z.Dapper.Plus.dll
+D:\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\EPPlus.xml
+D:\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\EPPlus.Core.xml
+D:\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ExcelDataReader.pdb
+D:\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ExcelDataReader.xml
+D:\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ExcelDataReader.DataSet.xml
+D:\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\Z.Dapper.Plus.xml
+D:\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.csproj.AssemblyReference.cache
+D:\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.csproj.SuggestedBindingRedirects.cache
+D:\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.Admin.frmEmployeeManagement.resources
+D:\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmLoginAdmin.resources
+D:\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.FrmSplash.resources
+D:\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmBookInfo.resources
+D:\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.FrmBookManagement.resources
+D:\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmCart.resources
+D:\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmCustomerAccount.resources
+D:\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmDetailedInvoice.resources
+D:\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmHomePageAdmin.resources
+D:\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmHomePageUser.resources
+D:\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmLoginUser.resources
+D:\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmOrderManagement.resources
+D:\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmReceipt.resources
+D:\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmUserAccount.resources
+D:\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.Properties.Resources.resources
+D:\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.csproj.GenerateResource.cache
+D:\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.csproj.CoreCompileInputs.cache
+D:\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.csproj.CopyComplete
+D:\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.exe
+D:\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.pdb
+C:\Users\Phung\Source\Repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Phung\Source\Repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ExcelDataReader.dll
+C:\Users\Phung\Source\Repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\Z.Dapper.Plus.dll
+C:\Users\Phung\Source\Repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ExcelDataReader.pdb
+C:\Users\Phung\Source\Repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ExcelDataReader.xml
+C:\Users\Phung\Source\Repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Phung\Source\Repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Phung\Source\Repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\Z.Dapper.Plus.xml
+C:\Users\Phung\Source\Repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.Admin.frmEmployeeManagement.resources
+C:\Users\Phung\Source\Repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.FrmSplash.resources
+C:\Users\Phung\Source\Repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmDetailedInvoice.resources
+C:\Users\Phung\Source\Repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.Admin.frmInfoBook_Admin.resources
+C:\Users\Phung\Source\Repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.User.frmCreateAccountUser.resources
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\System.Web.Helpers.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\System.Web.Mvc.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\System.Web.Optimization.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\System.Web.Razor.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\System.Web.WebPages.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\WebActivatorEx.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\WebGrease.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.Admin.FrmStatistic.resources
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\Antlr3.Runtime.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\Dapper.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ExcelDataReader.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\System.Web.Helpers.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\System.Web.Mvc.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\System.Web.Optimization.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\System.Web.Razor.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\System.Web.WebPages.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\WebActivatorEx.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\WebGrease.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\Z.Dapper.Plus.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\EnvDTE.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\stdole.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\Dapper.xml
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ExcelDataReader.pdb
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ExcelDataReader.xml
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\Z.Dapper.Plus.xml
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.Admin.frmEmployeeManagement.resources
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.Admin.frmInfoBook_Admin.resources
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.FrmSplash.resources
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.User.frmCreateAccountUser.resources
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.Admin.frmDetailedInvoice_Print.resources
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.User.frmReceipt_Print.resources
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\Dapper.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\EnvDTE.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\stdole.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\Dapper.xml
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.Admin.frmDetailedInvoice_Print.resources
+C:\Users\Phung\source\repos\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.User.frmReceipt_Print.resources
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\QuanLiNhaSach.exe.config
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\QuanLiNhaSach.exe
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\QuanLiNhaSach.pdb
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\Dapper.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\EPPlus.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ExcelDataReader.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\System.Web.Helpers.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\System.Web.Mvc.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\System.Web.Optimization.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\System.Web.Razor.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\System.Web.WebPages.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\WebActivatorEx.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\WebGrease.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\Z.Dapper.Plus.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\EnvDTE.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\stdole.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\Dapper.xml
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\EPPlus.xml
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ExcelDataReader.pdb
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ExcelDataReader.xml
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\Z.Dapper.Plus.xml
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.csproj.AssemblyReference.cache
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.csproj.SuggestedBindingRedirects.cache
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.Admin.frmDetailedInvoice_Print.resources
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.Admin.frmEmployeeManagement.resources
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.Admin.frmInfoBook_Admin.resources
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmLoginAdmin.resources
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.FrmSplash.resources
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmBookInfo.resources
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.FrmBookManagement.resources
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmCart.resources
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmCustomerAccount.resources
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmDetailedInvoice.resources
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmHomePageAdmin.resources
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.User.frmCreateAccountUser.resources
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmHomePageUser.resources
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmLoginUser.resources
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmOrderManagement.resources
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmReceipt.resources
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.User.frmReceipt_Print.resources
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.frmUserAccount.resources
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.Properties.Resources.resources
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.csproj.GenerateResource.cache
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.csproj.CoreCompileInputs.cache
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.csproj.CopyComplete
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.exe
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.pdb
+C:\Users\Phung\source\repos\LapTrinhWindowsNhi\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.User.frmResetPassword.resources
+C:\Users\YEN NHI\OneDrive\Tài liệu\GitHub\LapTrinhWindows\ĐỒ ÁN CUỐI KÌ\QuanLiNhaSach\QuanLiNhaSach\obj\Debug\QuanLiNhaSach.User.frmResetPassword.resources
